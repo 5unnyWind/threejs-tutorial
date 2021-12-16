@@ -129,7 +129,7 @@ const url = 'https://threejsfundamentals.org/threejs/resources/threejs/fonts/hel
 
 2. 那该怎么引入？
 
-这个问题我们知识先思考一下，暂时先不去讲如何解决。
+这个问题我们只是先思考一下，暂时先不去讲如何解决。
 
 让我们回到 HelloTexture 中。
 
